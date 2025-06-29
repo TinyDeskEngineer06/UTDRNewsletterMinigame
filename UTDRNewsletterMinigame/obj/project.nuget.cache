@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLlievfrf/w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tristan\\source\\repos\\UTDRNewsletterMinigame\\UTDRNewsletterMinigame\\UTDRNewsletterMinigame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tristan\\.nuget\\packages\\raylib-cs\\7.0.1\\raylib-cs.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
